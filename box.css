@@ -1,0 +1,7 @@
+<div id = "box">
+<p> Paragraph  </p>
+</div>
+#box{
+    background-color: #0000ff;
+    color:rgb(255,255,255);
+}
