@@ -44,3 +44,11 @@ p{
     margin: 100px;
     border: 2px solid black;
 }
+
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(178,161, 195);
+    animation-name: example;
+}
